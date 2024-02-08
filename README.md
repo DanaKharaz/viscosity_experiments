@@ -1,5 +1,5 @@
 # viscosity_experiments
-This is a program to analyze and graph data for a physics experiment
+This is a program to analyze and graph data for a physics experiment. Time of development: 02/2023
 
 The goal of the experiment was to analyze how the concentration of sugar affects the viscosity of sugar-water solutions using Stokes' law. To analyze the recorded data, 2 programs were created:
 
